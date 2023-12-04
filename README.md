@@ -1,6 +1,6 @@
-[# Ветошкина Анастасия][def]
+[# Ветошкина Анастасия]:(https://github.com/Asykanew/Vetoshkina-A/blob/main/foto.jpg)
 
-## 38 лет, ![город Абакан Республика Хакасия]:(https://yandex.ru/search/?text=абакан&clid=2378387-1&win=582&lr=11310)
+## 38 лет, ![город Абакан Республика Хакасия]:(https://github.com/Asykanew/Vetoshkina-A/blob/main/Abakan.jpg)
 
 
 
@@ -12,6 +12,3 @@
 4. Мечтаю об удаленной, но интересной и очень нужной людям работе 
 5. Владелица страницы в [соцсетях](https://vk.com/harleyjo)
    
-
-
-[def]: https://vk.com/photos?z=photo27755028_457244656%2Fphoto_feed27755028
