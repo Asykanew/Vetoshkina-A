@@ -1,4 +1,5 @@
-[# Ветошкина Анастасия]:(https://github.com/Asykanew/Vetoshkina-A/blob/main/foto.jpg)
+# Ветошкина Анастасия
+[.]:(https://github.com/Asykanew/Vetoshkina-A/blob/main/foto.jpg)
 
 ## 38 лет, ![город Абакан Республика Хакасия]:(https://github.com/Asykanew/Vetoshkina-A/blob/main/Abakan.jpg)
 
